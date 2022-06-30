@@ -1,4 +1,4 @@
-# Project 1: Game programming and analysis
+# Game programming and analysis
 
 ## Business Case
 
